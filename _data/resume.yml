@@ -35,7 +35,7 @@ main: #简历主要内容，
     #sub: 
     #detail: 本研究选取金沙江流域旭龙水电站库区
     summary: 本研究选取金沙江流域旭龙水电站库区、西南山区大溪沟、簇头沟等地区的高陡岩质斜坡及其堆积体为研究对象，在深化工程地质条件的基础上，取得了以下三个方面的研究进展：
-    items: 
+    items: 本研究选取金沙江流域旭龙水电站库区、西南山区大溪沟、簇头沟等地区的高陡岩质斜坡及其堆积体为研究对象，在深化工程地质条件的基础上，取得了以下三个方面的研究进展：
             - 地质几何边界的精细化描述与重构
             - 复杂裂隙岩体等效与灾变量化
             - 堆积体演化与碎屑流防护
@@ -45,64 +45,64 @@ main: #简历主要内容，
   content:
   - title: 地质几何边界的精细化描述与重构
     items: #itmems 可以小块的方式显示
-    summary: 现有“厘米级”精度模型难以实现高陡斜坡地质几何边界的精细解译，且崎岖坡表也阻碍了三维几何边界的重构。基于此，本研究通过开创“毫米级”地质建模技术实现斜坡实景模型精度的大幅提高，开发岩体结构面快速识别平台与“热辐射”技术实现庞大复杂结构面信息的快速获取，创新三维裂隙网络模拟技术实现内部几何边界重构
+    summary: 现有“厘米级”精度模型难以实现高陡斜坡地质几何边界的精细解译，且崎岖坡表也阻碍了三维几何边界的重构。基于此，本研究通过开创“毫米级”地质建模技术实现斜坡实景模型精度的大幅提高，开发岩体结构面快速识别平台与“热辐射”技术实现庞大复杂结构面信息的快速获取，创新三维裂隙网络模拟技术实现内部几何边界重构。
     #- 语言2
     #- 语言3
   - title: 复杂裂隙岩体等效与灾变量化
-    summary: 高陡斜坡庞大的结构面信息加剧了岩体不连续性分析的难度。本研究基于“等效结构”思想对解析与力学表征单元体（REV）开展维度突破；对影响岩体变形的关键性等效参数（弹性模量与抗剪强度参数）开展精度突破；最后基于前述等效参数开展高陡斜坡灾变量化的尺度突破
+    summary: 高陡斜坡庞大的结构面信息加剧了岩体不连续性分析的难度。本研究基于“等效结构”思想对解析与力学表征单元体（REV）开展维度突破；对影响岩体变形的关键性等效参数（弹性模量与抗剪强度参数）开展精度突破；最后基于前述等效参数开展高陡斜坡灾变量化的尺度突破。
   - title: 堆积体演化与碎屑流防护
-    summary: 不同时空尺度下堆积体的演化机制的研究较为薄弱，且泥石流（碎屑流）的防护未考虑堆积体演化影响。故本研究通过“天空地”技术，开展泥石流灾前长时堆积体演化过程检测，实现基于堆积体起动前兆的泥石流灾害长时提前预警；联合多源检测手段，厘清了不同空间尺度下堆积体灾害过程的演化过程；考虑堆积体的侵蚀和堆积，创新性提出了拦挡坝的控砂效应与定量评价指标
-- type: experience
-  name: 经验
+    summary: 不同时空尺度下堆积体的演化机制的研究较为薄弱，且泥石流（碎屑流）的防护未考虑堆积体演化影响。故本研究通过“天空地”技术，开展泥石流灾前长时堆积体演化过程检测，实现基于堆积体起动前兆的泥石流灾害长时提前预警；联合多源检测手段，厘清了不同空间尺度下堆积体灾害过程的演化过程；考虑堆积体的侵蚀和堆积，创新性提出了拦挡坝的控砂效应与定量评价指标。
+
+- type: Application Prospects
+  name: 应用前景
   content:
   - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
-    tags:
-    - 标签
+   # sub: 某某公司
+   # duration: "xxxx年xx月 - yyyy年yy月"
+  #  tags:
+   # - 标签
     summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
+    detail: 本项目偏向于应用基础方面的研究，成果对复杂结构高陡岩质斜坡防控提供了重要参考，研究成果得到业内其他学者认可和引用，并且在国家重大工程中，被应用于藏东南某铁路昌都至林芝，西南山区和新疆塔城地区诸如大溪沟、簇头沟等区域的岩体结构分析、吉林省长春市永吉县城市防洪工程岩质高边坡设计、成昆铁路依卜特克高陡斜坡崩塌落石风险识别与动力评价、额敏抽水蓄能电站泥石流调查研究。研究成果的应用合理评价了裂隙岩质斜坡稳定性与沟内堆积体的起动机制与演化模式，具有一定的应用前景与社会经济价值，值得大力推广。
+    open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  #- title: Job Title
+  #  sub: Your 2nd, Inc.  
+  #  duration: Apr 2013 - Mar 2016
+  #  tags: 
+  #  - tagname
+  #  summary: Summary your job or work. (Collapse)
+  #  detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- type: projects
-  name: Projects
+- type: Status of results
+  name: 成果情况
   content:
   - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+   # duration: xxxx年xx月 - yyyy年yy月
+    detail: 本项目共发表论文25篇，第一标注12篇，第二标注7篇，其他标注6篇。其中，SCI检索论文18篇，EI检索论文共2篇，中文核心论文共7篇。1篇文章发表在Nature Index检索期刊《GRL》，3篇文章发表在《EG》（含一篇高被引），1篇文章发表在《RMRE》，3篇文章发表在《JRMGE》（含一篇热点、高被引），一篇文章发表在《Acta Geotechnica》。
+   # sub: 维护者
+ # - title: Project Name
+  #  summary: Projects' introduction or summary
+#    detail:
+ #     md: _data/demo.md
+#    sub: Creator and maintainer.
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+#others: #其他列表显示
+#- type: others #ID可以为空
+#  name: '其他'
+#  content: #选择需要的格式
+#  - 单行文字
+#  - title: "加粗:"
+#    text: "列表项二"
+#  - title: "兴趣:"
+#    items: #单行列表
+#    - 睡觉
+#    - 吃饭
+#  - title: 列表
+#    list:
+#    - 第一项
+#    - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
