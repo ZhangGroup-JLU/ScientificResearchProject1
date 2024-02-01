@@ -10,7 +10,7 @@ photo: "assets/img/jdxh.jpg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "zhang_wen@jlu.edu.cn" #文本内容
-  href: 'zhang_wen@jlu.edu.cn' #链接，无链接则空  
+  href: '' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "0431-88502337"
   href: ''
