@@ -53,14 +53,7 @@ main: #简历主要内容，
     #detail: 本项目偏向于应用基础方面的研究，成果对复杂结构高陡岩质斜坡防控提供了重要参考，研究成果得到业内其他学者认可和引用，并且在国家重大工程中，被应用于藏东南某铁路昌都至林芝，西南山区和新疆塔城地区诸如大溪沟、簇头沟等区域的岩体结构分析、吉林省长春市永吉县城市防洪工程岩质高边坡设计、成昆铁路依卜特克高陡斜坡崩塌落石风险识别与动力评价、额敏抽水蓄能电站泥石流调查研究。研究成果的应用合理评价了裂隙岩质斜坡稳定性与沟内堆积体的起动机制与演化模式，具有一定的应用前景与社会经济价值，值得大力推广。
    # open: open
     #可以设置open默认展开
-  #- title: Job Title
-  #  sub: Your 2nd, Inc.  
-  #  duration: Apr 2013 - Mar 2016
-  #  tags: 
-  #  - tagname
-  #  summary: Summary your job or work. (Collapse)
-  #  detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+  
 - type: Status of results
   name: 成果情况
   content:
@@ -73,11 +66,10 @@ footer: #脚注多组
   print: #打印版markdown或者html
   screen:
   - text: "国家优秀青年科学基金项目"
-  #   href: '/'
- # - text: "Made with &hearts; by NewFuture"
- #   href: "https://github.com/NewFuture/CV/"
+  - text: "Made with &hearts; by NewFuture"
+    href: "https://github.com/NewFuture/CV/"
 
 #页面额外js脚本，如xx统计
-#scripts:
+scripts:
 #- src: "assets/js/resume.js"
 #  defer: defer #可以设置defer或者sync异步加载
