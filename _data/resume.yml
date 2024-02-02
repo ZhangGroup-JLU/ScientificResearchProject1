@@ -59,7 +59,7 @@ main: #简历主要内容，
   content:
   - title: 发表期刊论文情况
     summary: 本项目共发表论文25篇，第一标注12篇，第二标注7篇，其他标注6篇。其中，SCI检索论文18篇，EI检索论文共2篇，中文核心论文共7篇。1篇文章发表在Nature Index检索期刊《GRL》，3篇文章发表在《EG》（含一篇高被引），1篇文章发表在《RMRE》，3篇文章发表在《JRMGE》（含一篇热点、高被引），一篇文章发表在《Acta Geotechnica》。
-    photo: "assets/img/jdxh.jpg"
+
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
