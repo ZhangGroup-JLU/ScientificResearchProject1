@@ -31,7 +31,7 @@ main: #简历主要内容，
   name: 研究概况 #显示名称，空则使用type
   content:
   - title: 研究进展概况
-    summary: 本研究选取金沙江流域旭龙水电站库区、西南山区大溪沟、簇头沟等地区的高陡岩质斜坡及其堆积体为研究对象，在深化工程地质条件的基础上，取得了三个方面的研究进展。
+    summary: 本研究选取金沙江流域旭龙水电站库区、西南山区大溪沟、簇头沟等地区的高陡岩质斜坡及其堆积体为研究对象，在深化工程地质条件的基础上，取得了以下三个方面的研究进展：地质几何边界的精细化描述与重构; 复杂裂隙岩体等效与灾变量化; 堆积体演化与碎屑流防护。
 
     
 - type: Findings
@@ -66,8 +66,8 @@ footer: #脚注多组
   print: #打印版markdown或者html
   screen:
   - text: "国家优秀青年科学基金项目"
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "吉林大学"
+    #href: "https://github.com/NewFuture/CV/"
 
 #页面额外js脚本，如xx统计
 scripts:
