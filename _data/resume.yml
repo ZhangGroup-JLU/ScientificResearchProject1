@@ -59,7 +59,6 @@ main: #简历主要内容，
   content:
   - title: 发表期刊论文情况
     summary:     本项目共发表论文25篇，第一标注12篇，第二标注7篇，其他标注6篇。其中，SCI检索论文18篇，EI检索论文共2篇，中文核心论文共7篇。1篇文章发表在Nature Index检索期刊《Geophysical Research Letters》，3篇文章发表在《Engineering Geology》（含一篇高被引），1篇文章发表在《Rock Mechanics and Rock Engineering》，3篇文章发表在《Journal of Rock Mechanics and Geotechnical Engineering》（含1篇热点、高被引），1篇文章发表在《Acta Geotechnica》。
-![]({{ site.url }}{{ site.baseurl }}/assets/img/jdxh.ipg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
 
 
