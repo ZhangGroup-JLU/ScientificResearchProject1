@@ -15,10 +15,10 @@ contact: #联系方式连接等3~5行
 - text: "0431-88502337"
   href: ''
   icon: 'icons/phone.svg'
-- text: "const.jlu.edu.cn"
+- text: "项目负责人主页"
   href: 'https://const.jlu.edu.cn/info/1113/2914.htm'
   icon: 'icons/web.svg'
-- text: "zhanggroup-jlu.github.io"
+- text: "研究团队主页"
   href: 'https://zhanggroup-jlu.github.io/'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
