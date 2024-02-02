@@ -53,4 +53,4 @@ sass:
   style: compressed
   sass_dir: _sass
 
-  remote_theme: HydeCorp/hydejack@v9
+  Theme: Jekyll-Theme-Hydejack
