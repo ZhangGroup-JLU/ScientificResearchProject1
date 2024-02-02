@@ -58,14 +58,9 @@ main: #简历主要内容，
   name: 成果情况
   content:
   - title: 发表期刊论文情况
-    summary:     本项目共发表论文25篇，第一标注12篇，第二标注7篇，其他标注6篇。其中，SCI检索论文18篇，EI检索论文共2篇，中文核心论文共7篇。1篇文章发表在Nature Index检索期刊《Geophysical Research Letters》，3篇文章发表在《Engineering Geology》（含一篇高被引），1篇文章发表在《Rock Mechanics and Rock Engineering》，3篇文章发表在《Journal of Rock Mechanics and Geotechnical Engineering》（含一篇热点、高被引），一篇文章发表在《Acta Geotechnica》。
+    summary:     本项目共发表论文25篇，第一标注12篇，第二标注7篇，其他标注6篇。其中，SCI检索论文18篇，EI检索论文共2篇，中文核心论文共7篇。1篇文章发表在Nature Index检索期刊《Geophysical Research Letters》，3篇文章发表在《Engineering Geology》（含一篇高被引），1篇文章发表在《Rock Mechanics and Rock Engineering》，3篇文章发表在《Journal of Rock Mechanics and Geotechnical Engineering》（含1篇热点、高被引），1篇文章发表在《Acta Geotechnica》。
 
 
-title: "国家优秀青年科学基金项目"
-lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "国家优秀青年科学基金"
-jobtitle: "工程地质与地质灾害" #可空不显示
-photo: "assets/img/jdxh.jpg" #照片可空，不显示
 
 
 #footer 脚注，打印版和web版不同不显示    
