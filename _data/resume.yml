@@ -73,3 +73,10 @@ footer: #脚注多组
 scripts:
 #- src: "assets/js/resume.js"
 #  defer: defer #可以设置defer或者sync异步加载
+
+title: "国家优秀青年科学基金项目"
+lang: "zh" #语言设置 zh表示中文 en 表示英语
+name: "国家优秀青年科学基金"
+jobtitle: "工程地质与地质灾害" #可空不显示
+photo: "assets/img/jdxh.jpg" #照片可空，不显示
+
